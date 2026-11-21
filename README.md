@@ -19,4 +19,4 @@ Contract first, tests that fail for the right reason, and READMEs that say
 what is actually built. Every repo above has a status section that is
 honest about what is not done.
 
-[LinkedIn](https://www.linkedin.com/in/arlo-k-16a618273/) · arlo.kharod@gmail.com
+[Portfolio](https://firegiant9000.github.io/) · [LinkedIn](https://www.linkedin.com/in/arlo-k-16a618273/) · arlo.kharod@gmail.com
